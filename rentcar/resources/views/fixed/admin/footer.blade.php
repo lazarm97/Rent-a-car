@@ -1,7 +1,7 @@
 
 
 <div id="footer">
-	<p>Copyright|<a href="https://github.com/lazarm97">Lazar Marojkin</a>|<a href="#" target="_blank">Documentation</a></p>
+	<p>Copyright|<a href="https://github.com/lazarm97">Lazar Marojkin</a>|<a href="{{ url('Dokumentacija PHP2.docx') }}" target="_blank">Documentation</a></p>
 </div>
     <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
